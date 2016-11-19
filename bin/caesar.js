@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 const caesar = require('../lib/caesar.js');
 const program = require('commander');
 
